@@ -1,0 +1,377 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataTest\\BookMetaDataTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataApiDomain\\BookMetaDataApiDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataApiDomain\\BookMetaDataApiDomain.csproj",
+        "projectName": "BookMetaDataApiDomain",
+        "projectPath": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataApiDomain\\BookMetaDataApiDomain.csproj",
+        "packagesPath": "C:\\Users\\AsusIran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataApiDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AsusIran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataPrimaryDomain\\BookMetaDataPrimaryDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataPrimaryDomain\\BookMetaDataPrimaryDomain.csproj",
+        "projectName": "BookMetaDataPrimaryDomain",
+        "projectPath": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataPrimaryDomain\\BookMetaDataPrimaryDomain.csproj",
+        "packagesPath": "C:\\Users\\AsusIran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataPrimaryDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AsusIran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataApiDomain\\BookMetaDataApiDomain.csproj": {
+                "projectPath": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataApiDomain\\BookMetaDataApiDomain.csproj"
+              },
+              "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataSecondaryDomain\\BookMetaDataSecondaryDomain.csproj": {
+                "projectPath": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataSecondaryDomain\\BookMetaDataSecondaryDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataSecondaryDomain\\BookMetaDataSecondaryDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataSecondaryDomain\\BookMetaDataSecondaryDomain.csproj",
+        "projectName": "BookMetaDataSecondaryDomain",
+        "projectPath": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataSecondaryDomain\\BookMetaDataSecondaryDomain.csproj",
+        "packagesPath": "C:\\Users\\AsusIran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataSecondaryDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AsusIran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataApiDomain\\BookMetaDataApiDomain.csproj": {
+                "projectPath": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataApiDomain\\BookMetaDataApiDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataTest\\BookMetaDataTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataTest\\BookMetaDataTest.csproj",
+        "projectName": "BookMetaDataTest",
+        "projectPath": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataTest\\BookMetaDataTest.csproj",
+        "packagesPath": "C:\\Users\\AsusIran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AsusIran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataPrimaryDomain\\BookMetaDataPrimaryDomain.csproj": {
+                "projectPath": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataPrimaryDomain\\BookMetaDataPrimaryDomain.csproj"
+              },
+              "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataSecondaryDomain\\BookMetaDataSecondaryDomain.csproj": {
+                "projectPath": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataSecondaryDomain\\BookMetaDataSecondaryDomain.csproj"
+              },
+              "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaData\\BookMetaData.csproj": {
+                "projectPath": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaData\\BookMetaData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaData\\BookMetaData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaData\\BookMetaData.csproj",
+        "projectName": "BookMetaData",
+        "projectPath": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaData\\BookMetaData.csproj",
+        "packagesPath": "C:\\Users\\AsusIran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AsusIran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataPrimaryDomain\\BookMetaDataPrimaryDomain.csproj": {
+                "projectPath": "C:\\Users\\AsusIran\\Desktop\\Usefull\\BookMetaData\\BookMetaDataPrimaryDomain\\BookMetaDataPrimaryDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
